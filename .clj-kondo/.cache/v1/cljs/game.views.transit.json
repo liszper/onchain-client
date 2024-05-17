@@ -1,1 +1,0 @@
-["^ ","~$main-panel",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$game.views","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:vector","~:arglist-str","[]"]],"~:type","~:fn"],"~:filename","/workspaces/onchain-client/src/game/views.cljs"]
